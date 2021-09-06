@@ -8,6 +8,7 @@ import { MainNavbarComponent } from './components/main-navbar/main-navbar.compon
 import { PreviewComponent } from './views/preview/preview.component';
 import { NewMapComponent } from './views/new-map/new-map.component';
 import { MapComponent } from './components/map/map.component';
+import { MapComponent  as MapViewComponent} from './views/map/map.component';
 import { NewProjectComponent } from './views/new-project/new-project.component';
 import { ProjectComponent } from './views/project/project.component';
 import { ListProjectsComponent } from './components/list-projects/list-projects.component';
@@ -23,6 +24,7 @@ import { ListMapsComponent } from './components/list-maps/list-maps.component';
     PreviewComponent,
     NewMapComponent,
     MapComponent,
+    MapViewComponent,
     NewProjectComponent,
     ProjectComponent,
     ListProjectsComponent,

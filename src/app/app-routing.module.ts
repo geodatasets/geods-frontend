@@ -11,7 +11,7 @@ const routes: Routes = [
   {path:'new-project',component:NewProjectComponent},
   {path:'new-map',component:NewMapComponent},
   {path:'project/:projectId',component:ProjectComponent},
-  {path:'map',component:MapComponent}
+  {path:'map/:mapId',component:MapComponent}
 ];
 
 @NgModule({
