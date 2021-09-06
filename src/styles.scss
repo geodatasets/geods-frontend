@@ -1,1 +1,37 @@
 /* You can add global styles to this file, and also import other style files */
+@charset "utf-8";
+
+
+//$turquoise :"#ddd";
+
+
+//bulma colors only hsl definition
+$primary: hsl(210, 79%, 46%);
+
+@import "bulma/bulma.sass";
+
+/*
+@import "../node_modules/bulma/sass/utilities/_all.sass";
+
+@import "../node_modules/bulma/sass/base/_all.sass";
+//de grid
+@import "../node_modules/bulma/sass/grid/columns.sass";
+@import "../node_modules/bulma/sass/grid/tiles.sass";
+
+//de helpers
+@import "../node_modules/bulma/sass/helpers/color.sass";
+@import "../node_modules/bulma/sass/helpers/typography.sass";
+@import "../node_modules/bulma/sass/helpers/spacing.sass";
+@import "../node_modules/bulma/sass/helpers/float.sass";
+
+//de components
+@import "../node_modules/bulma/sass/components/navbar.sass";
+
+//forms
+@import "../node_modules/bulma/sass/form/shared.sass";
+@import "../node_modules/bulma/sass/form/select.sass";
+
+//de elements
+@import "../node_modules/bulma/sass/elements/button.sass";
+
+*/
